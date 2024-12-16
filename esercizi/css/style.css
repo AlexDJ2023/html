@@ -1,1 +1,5 @@
-
+body {background: lightskyblue; }
+H1 {font-size:36px; font-family:arial; color:mediumblue; text-align:center; font-weight:bold; }
+H2 {font-size:24px; font-family:arial; color:mediumvioletred; font-weight:bold; text-align:center; }
+p  {font-size:18px; font-family:arial; color:blue; background-color:azure; font-weight:justify; } 
+img {width: 200px; height: 200px; }
